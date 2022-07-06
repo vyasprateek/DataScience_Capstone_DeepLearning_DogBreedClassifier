@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. I have also written a [blog post on Medium](https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46) explaining the efforts done for this project [here](https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46) 
 
 ![Sample Output][image1]
 
@@ -19,15 +19,17 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
-cd dog-project
+git clone https://github.com/vyasprateek/DataScience_Capstone_DeepLearning_DogBreedClassifier.git
+cd DataScience_Capstone_DeepLearning_DogBreedClassifier
 ```
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
 
 3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
-4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
+4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/DataScience_Capstone_DeepLearning_DogBreedClassifier/bottleneck_features`.
+
+5. Donwload the [DogResnet50 bottleneck features]https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/DataScience_Capstone_DeepLearning_DogBreedClassifier/bottleneck_features`.
 
 5. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
 
