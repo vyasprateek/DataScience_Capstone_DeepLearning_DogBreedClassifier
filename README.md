@@ -4,6 +4,7 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+Link to Blog Post Explaining Project Work in details : https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46
 
 ## Project Overview
 
