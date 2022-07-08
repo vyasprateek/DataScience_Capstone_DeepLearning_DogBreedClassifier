@@ -4,9 +4,9 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
-Link to Blog Post Explaining Project Work in details : https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46
-
 ## Project Overview
+
+Link to Blog Post Explaining Project Work in details : https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46
 
 Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. I have also written a [blog post on Medium](https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46) explaining the efforts done for this project [here](https://medium.com/@vyas.prateek23/deep-learning-dog-breed-classifier-using-cnns-1b873dc54b46) 
 
